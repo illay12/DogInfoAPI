@@ -17,7 +17,7 @@ namespace DogInfoAPI.Helpers
         {
             _config = config;
         }
-
+ 
         public byte[] GetPasswordHash(string password, byte[] passwordSalt)
         {
             string passwordSaltPlusString = _config.GetSection("AppSettings:PasswordKey").Value +

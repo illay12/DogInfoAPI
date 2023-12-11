@@ -41,6 +41,9 @@ namespace DogInfoAPI.Controllers
             return _dapper.LoadData<Dog>(sql);
         }
 
+
+        
+
         [HttpGet("GetSingleDog/{dogId}")]
         public IEnumerable<Dog> GetSingleDog(int dogId)
         {
