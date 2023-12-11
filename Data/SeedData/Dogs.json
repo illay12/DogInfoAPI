@@ -1,0 +1,163 @@
+[
+    {
+        "Name": "Labrador Retriever",
+        "LifeSpan" : "10-14",
+        "Weight" : "25-36",
+        "PictureUrl" : "Images/DogImages/Labrador-Retriever",
+        "Size" : "Large",
+        "CountryId": 1
+    },
+    {
+        "Name": "German Shepherd",
+        "LifeSpan" : "9-13",
+        "Weight" : "23-41",
+        "PictureUrl" : "Images/DogImages/German-Shepherd",
+        "Size" : "Large",
+        "CountryId": 2
+        
+    },
+    {
+        "Name": "Golden Retriever",
+        "LifeSpan" : "10-12",
+        "Weight" : "25-34",
+        "PictureUrl" : "Images/DogImages/Golden-Retriever",
+        "Size" : "Large",
+        "CountryId": 3
+    },
+    {
+        "Name": "French Bulldog",
+        "LifeSpan" : "10-12",
+        "Weight" : "18-23",
+        "PictureUrl" : "Images/DogImages/French-Bulldog",
+        "Size" : "Small",
+        "CountryId": 5
+    },
+    {
+        "Name": "Bulldog",
+        "LifeSpan" : "8-12",
+        "Weight" : "18-23",
+        "PictureUrl" : "Images/DogImages/Bulldog",
+        "Size" : "Medium",
+        "CountryId": 4
+    },
+    {
+        "Name": "Poodle",
+        "LifeSpan" : "10-18",
+        "Weight" : "20-32",
+        "PictureUrl" : "Images/DogImages/Poodle",
+        "Size" : "Medium",
+        "CountryId": 2
+    },
+    {
+        "Name": "Beagle",
+        "LifeSpan" : "10-15",
+        "Weight" : "9-14",
+        "PictureUrl" : "Images/DogImages/Beagle",
+        "Size" : "Medium",
+        "CountryId": 4  
+    },
+    {
+        "Name": "Rottweiler",
+        "LifeSpan" : "8-10",
+        "Weight" : "36-61",
+        "PictureUrl" : "Images/DogImages/Rottweiler",
+        "Size" : "Large",
+        "CountryId": 2
+    },
+    {
+        "Name": "Siberian Husky",
+        "LifeSpan" : "12-14",
+        "Weight" : "16-27",
+        "PictureUrl" : "Images/DogImages/Siberian-Husky",
+        "Size" : "Large",
+        "CountryId": 6
+    },
+    {
+        "Name": "Dachshund",
+        "LifeSpan" : "12-14",
+        "Weight" : "16-27",
+        "PictureUrl" : "Images/DogImages/Dachshund",
+        "Size" : "Small",
+        "CountryId": 2
+    },
+    {
+        "Name": "Boxer",
+        "LifeSpan" : "10-12",
+        "Weight" : "23-36",
+        "PictureUrl" : "Images/DogImages/Boxer",
+        "Size" : "Large",
+        "CountryId": 2
+    },
+    {
+        "Name": "Shih Tzu",
+        "LifeSpan" : "10-18",
+        "Weight" : "4-7",
+        "PictureUrl" : "Images/DogImages/Shih-Tzu",
+        "Size" : "Small",
+        "CountryId": 7
+    },
+    {
+        "Name": "Yorkshire Terrier",
+        "LifeSpan" : "11-15",
+        "Weight" : "2-3",
+        "PictureUrl" : "Images/DogImages/Yorkshire-Terrier",
+        "Size" : "Small",
+        "CountryId": 4
+    },
+    {
+        "Name": "Doberman Pinscher",
+        "LifeSpan" : "10-13",
+        "Weight" : "27-45",
+        "PictureUrl" : "Images/DogImages/Doberman-Pinscher",
+        "Size" : "Large",
+        "CountryId": 2
+    },
+    {
+        "Name": "Shiba Inu",
+        "LifeSpan" : "13-16",
+        "Weight" : "8-10",
+        "PictureUrl" : "Images/DogImages/Shiba-Inu",
+        "Size" : "Medium",
+        "CountryId": 9
+    },
+    {
+        "Name": "Australian Shepherd",
+        "LifeSpan" : "12-15",
+        "Weight" : "18-29",
+        "PictureUrl" : "Images/DogImages/Australian-Shepherd",
+        "Size" : "Medium",
+        "CountryId": 8
+    },
+    {
+        "Name": "Shetland Sheepdog",
+        "LifeSpan" : "12-14",
+        "Weight" : "7-11",
+        "PictureUrl" : "Images/DogImages/Shetland-Sheepdog",
+        "Size" : "Small",
+        "CountryId": 3
+    },
+    {
+        "Name": "Border Collie",
+        "LifeSpan" : "10-17",
+        "Weight" : "14-25",
+        "PictureUrl" : "Images/DogImages/Border-Collie",
+        "Size" : "Medium",
+        "CountryId": 4
+    },
+    {
+        "Name": "Chihuahua",
+        "LifeSpan" : "12-20",
+        "Weight" : "1-3",
+        "PictureUrl" : "Images/DogImages/Chihuahua",
+        "Size" : "Small",
+        "CountryId": 10
+    },
+    {
+        "Name": "Saint Bernard",
+        "LifeSpan" : "8-10",
+        "Weight" : "60-78",
+        "PictureUrl" : "Images/DogImages/Saint-Bernard",
+        "Size" : "Large",
+        "CountryId": 11
+    }
+]

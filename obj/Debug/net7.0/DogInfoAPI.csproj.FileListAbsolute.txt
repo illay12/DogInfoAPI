@@ -1,0 +1,148 @@
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.exe
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.deps.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.runtimeconfig.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.pdb
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.AssemblyReference.cache
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.AssemblyInfoInputs.cache
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.AssemblyInfo.cs
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.DogInfoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DogInfoAPI.props
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DogInfoAPI.props
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DogInfoAPI.props
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\scopedcss\bundle\DogInfoAPI.styles.css
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.CopyComplete
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.dll
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\refint\DogInfoAPI.dll
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.pdb
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.genruntimeconfig.cache
+C:\Users\Servicii Publice\DogInfoAPI\obj\Debug\net7.0\ref\DogInfoAPI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Data\SeedData\Countries.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Data\SeedData\Dogs.json
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Dapper.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Servicii Publice\DogInfoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\appsettings.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Data\SeedData\Countries.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Data\SeedData\Dogs.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Data\DogsData\Countries.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Data\DogsData\Dogs.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.exe
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.deps.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.runtimeconfig.json
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.pdb
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Dapper.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proiecte\DogInfoAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.AssemblyReference.cache
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.AssemblyInfoInputs.cache
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.AssemblyInfo.cs
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.CoreCompileInputs.cache
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.DogInfoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.DogInfoAPI.props
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DogInfoAPI.props
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DogInfoAPI.props
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\scopedcss\bundle\DogInfoAPI.styles.css
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.csproj.CopyComplete
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.dll
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\refint\DogInfoAPI.dll
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.pdb
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\DogInfoAPI.genruntimeconfig.cache
+C:\Proiecte\DogInfoAPI\obj\Debug\net7.0\ref\DogInfoAPI.dll
+C:\proiecte\DogInfoAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\proiecte\DogInfoAPI\bin\Debug\net7.0\DogInfoAPI.staticwebassets.runtime.json
