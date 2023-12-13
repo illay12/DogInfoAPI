@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGwYrmXQri/iIBkDJxoyFI8L/zee51GXlOUjTpVxRLULyjHRnA2TTxx6GlqFbxvmDakcSZEXIo08TiFTgEt20g==",
+  "dgSpecHash": "3d9v6+YP932yYOwA2U+w1H5XcU8AJh2Em1O82Y3R1MVR2BvxEhg+vNgPqRGqnr9SPvRkLRXCsVHUQuKoc+5zoQ==",
   "success": true,
-  "projectFilePath": "C:\\Proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
+  "projectFilePath": "C:\\proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laurentiu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Laurentiu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

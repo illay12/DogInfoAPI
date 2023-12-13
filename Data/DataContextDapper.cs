@@ -33,25 +33,29 @@ namespace DogInfoAPI.Data
             }        
         }
 
-        public bool ExecuteSQLWithParameters(string sql, List<SqlParameter> parameters)
+        public bool ExecuteSQLWithParameters(string sql, DynamicParameters parameters)
         {
-                SqlCommand commandWithParams = new SqlCommand(sql);
 
-                foreach(SqlParameter parameter in parameters)
-                {
-                    commandWithParams.Parameters.Add(parameter);
-                }
+            IDbConnection dbConnection  = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
+            return dbConnection.Execute(sql,parameters) > 0;
 
-                SqlConnection dbConnection = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
-                dbConnection.Open();
+                // SqlCommand commandWithParams = new SqlCommand(sql);
 
-                commandWithParams.Connection = dbConnection;
+                // foreach(SqlParameter parameter in parameters)
+                // {
+                //     commandWithParams.Parameters.Add(parameter);
+                // }
 
-                int rowsAffected = commandWithParams.ExecuteNonQuery();
+                // SqlConnection dbConnection = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
+                // dbConnection.Open();
 
-                dbConnection.Close();
+                // commandWithParams.Connection = dbConnection;
 
-                return rowsAffected > 0;
+                // int rowsAffected = commandWithParams.ExecuteNonQuery();
+
+                // dbConnection.Close();
+
+                // return rowsAffected > 0;
             
         }
 

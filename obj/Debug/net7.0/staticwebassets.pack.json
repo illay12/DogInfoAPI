@@ -1,83 +1,83 @@
 {
   "Files": [
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Australian-Shepherd.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Australian-Shepherd.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Australian-Shepherd.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Beagle.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Beagle.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Beagle.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Border-Collie.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Border-Collie.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Border-Collie.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Boxer.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Boxer.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Boxer.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Bulldog.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Bulldog.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Bulldog.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Chihuahua.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Chihuahua.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Chihuahua.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Dachshund.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Dachshund.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Dachshund.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Doberman-Pinscher.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Doberman-Pinscher.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Doberman-Pinscher.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\French-Bulldog.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\French-Bulldog.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\French-Bulldog.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\German- Shepherd.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\German- Shepherd.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\German- Shepherd.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Golden-Retriever.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Golden-Retriever.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Golden-Retriever.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Labrador-Retriever.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Labrador-Retriever.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Labrador-Retriever.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Poodle.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Poodle.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Poodle.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Rottweiler.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Rottweiler.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Rottweiler.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Saint-Bernard.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Saint-Bernard.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Saint-Bernard.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shetland-Sheepdog.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shetland-Sheepdog.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Shetland-Sheepdog.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shiba-Inu.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shiba-Inu.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Shiba-Inu.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shih-Tzu.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Shih-Tzu.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Shih-Tzu.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Siberian-Husky.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Siberian-Husky.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Siberian-Husky.jpg"
     },
     {
-      "Id": "C:\\Proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Yorkshire-Terrier.jpg",
+      "Id": "C:\\proiecte\\DogInfoAPI\\wwwroot\\Images\\DogImages\\Yorkshire-Terrier.jpg",
       "PackagePath": "staticwebassets\\Images\\DogImages\\Yorkshire-Terrier.jpg"
     },
     {

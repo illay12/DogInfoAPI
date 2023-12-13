@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proiecte\\DogInfoAPI\\DogInfoAPI.csproj": {}
+    "C:\\proiecte\\DogInfoAPI\\DogInfoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Proiecte\\DogInfoAPI\\DogInfoAPI.csproj": {
+    "C:\\proiecte\\DogInfoAPI\\DogInfoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
+        "projectUniqueName": "C:\\proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
         "projectName": "DogInfoAPI",
-        "projectPath": "C:\\Proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
+        "projectPath": "C:\\proiecte\\DogInfoAPI\\DogInfoAPI.csproj",
         "packagesPath": "C:\\Users\\Laurentiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Proiecte\\DogInfoAPI\\obj\\",
+        "outputPath": "C:\\proiecte\\DogInfoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Laurentiu\\AppData\\Roaming\\NuGet\\NuGet.Config"

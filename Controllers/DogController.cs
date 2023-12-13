@@ -44,7 +44,7 @@ namespace DogInfoAPI.Controllers
 
         
 
-        [HttpGet("GetSingleDog/{dogId}")]
+        [HttpGet("GetSingleDog")]
         public IEnumerable<Dog> GetSingleDog(int dogId)
         {
             string sql = @"
